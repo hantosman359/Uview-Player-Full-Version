@@ -248,3 +248,6 @@ This repository serves as the official landing page for uView Player. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of uView Player today!**
+
+---
+**Last updated:** 2026-09-09 17:44:56 UTC
