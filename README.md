@@ -250,4 +250,4 @@ This repository serves as the official landing page for uView Player. The softwa
 **Get the most recent version of uView Player today!**
 
 ---
-**Last updated:** 2026-09-15 13:22:55 UTC
+**Last updated:** 2026-09-15 18:04:35 UTC
